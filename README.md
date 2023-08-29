@@ -1,3 +1,5 @@
+export CUDA_HOME=/usr/local/cuda-11.7
+
 <h1 align="center">AutoGPTQ</h1>
 <p align="center">An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.</p>
 <p align="center">
